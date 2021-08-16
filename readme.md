@@ -1,6 +1,12 @@
-# Ray Tracer: In One Weekend [Rust]
+# Ray Tracer in Rust
 
-Following the book: https://raytracing.github.io/books/RayTracingInOneWeekend.html
+Following the books: https://raytracing.github.io/
+
+Progress:
+- [x] In One Weekend
+- [ ] The Next Week
+- [ ] The Rest Of Your Life
 
 Current status:
 ![Balls](image.jpg)
+
